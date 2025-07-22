@@ -38,5 +38,5 @@ The program will demonstrate:
 You can modify the main.cpp file to test different operations or create your own program using the provided classes.
 
 ## Notes
-Error messages will be displayed for invalid operations (like adding vectors of different sizes).
-This implementation was created for educational purposes.  
+- Error messages will be displayed for invalid operations (like adding vectors of different sizes).
+- This implementation was created for educational purposes.  
